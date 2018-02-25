@@ -1,0 +1,15 @@
+{
+  "name": "dummy-dum",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/mattcarpowich1/ui-stuff.git",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Matt Carpowich",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
